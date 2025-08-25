@@ -12,7 +12,7 @@ I work with **React, Next.js, TypeScript, Redux, TailwindCSS** and have experien
 💡 Passionate about scalable front-end architectures, interactive UI, and real-time technologies.  
 🚀 Dedicated to delivering solutions that make a real impact for users and businesses.
 
-## 🛠 Skills & Tools
+## 🛠 Skills & Tools## 
 
 ### 🖥 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -26,9 +26,16 @@ I work with **React, Next.js, TypeScript, Redux, TailwindCSS** and have experien
 ### ⚙ CMS / Backend
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-000?logo=websockets&logoColor=white)
 
-### 🤖 AI / Others
+### 🤖 AI / Інше
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00FF00?logo=openai&logoColor=white)
+
+### ☁ Cloud / DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0052CC?logo=githubactions&logoColor=white)
