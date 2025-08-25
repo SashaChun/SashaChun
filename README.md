@@ -12,7 +12,7 @@ I work with **React, Next.js, TypeScript, Redux, TailwindCSS** and have experien
 💡 Passionate about scalable front-end architectures, interactive UI, and real-time technologies.  
 🚀 Dedicated to delivering solutions that make a real impact for users and businesses.
 
-## 🛠 Skills & Tools## 
+## 🛠 Skills & Tools 
 
 ### 🖥 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
