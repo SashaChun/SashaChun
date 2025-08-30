@@ -46,9 +46,7 @@ I work with **React, Next.js, TypeScript, Redux, TailwindCSS** and have experien
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-000?logo=websockets&logoColor=white)
-
-### 🤖 AI / Інше
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00FF00?logo=openai&logoColor=white)
+ 
 
 ### ☁ Cloud / DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
